@@ -1,14 +1,14 @@
 {
-  "name": "readme-maker",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "generates a professional README",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sam Schroder",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "enquirer": "^2.4.1"
+    "inquirer": "^6.3.1"
   }
 }

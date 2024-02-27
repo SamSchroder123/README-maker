@@ -28,6 +28,11 @@ ${data.contributing}
 ## Tests
 ${data.tests}
 ## Questions
+GitHub username: [${data.username}](https://github.com/${data.username})
+
+Contact Email: ${data.email}
+
+Please email me for further questions.
 `;
 }
 

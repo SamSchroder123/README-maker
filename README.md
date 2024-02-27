@@ -1,4 +1,4 @@
-# My Repository
+# README-Generator
 ## Table of Contents
 [Description](#description)
 
@@ -14,15 +14,18 @@
 
 [Questions](#questions)
 ## Description
-he
+Generates a README
 ## Installation
-vghj
+pull from github
 ## Usage
-kjhbv
+use from command line
 ## Licence
-MIT
+Creative Commons
 ## Contributing
-ghj
+contribute freely
 ## Tests
-kiuhgv
+test it
 ## Questions
+GitHub username: [SamSchroder123](https://github.com/SamSchroder123)
+Contact Email: dummy@email.com
+Please email me for further questions.

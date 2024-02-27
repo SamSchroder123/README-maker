@@ -27,6 +27,28 @@ const questions = [
     message: "Please enter usage information: ",
   },
   {
+    type: "expand",
+    name: "license",
+    message: "Please choose your licence",
+    choices: [
+      {
+        key: "m",
+        name: "MIT",
+        value: "MIT",
+      },
+      {
+        key: "c",
+        name: "Creative Commons",
+        value: "Creative Commons",
+      },
+      {
+        key: "z",
+        name: "Mozilla",
+        value: "Mozilla",
+      },
+    ],
+  },
+  {
     type: "input",
     name: "contributing",
     message: "Please enter contribution guidelines: ",
@@ -53,6 +75,12 @@ function writeToFile(fileName, data) {
   console.log("writing to file...");
   let text = generateMarkdown(data);
   console.log(text);
+  fs.writeFile(fileName, text, (err) => {
+    if (err) {
+      console.log("An error occurred writing to file.");
+      console.log(err);
+    }
+  });
 }
 
 // function to initialize program

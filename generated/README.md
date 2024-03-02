@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  # My Repository
+  # my repository
   ## Table of Contents
   [Description](#description)
 
@@ -7,7 +7,7 @@
 
   [Usage](#usage)
 
-  [Licence](#license)
+  [Licence](#licence)
 
   [Contributing](#contributing)
 
@@ -15,21 +15,21 @@
 
   [Questions](#questions)
   ## Description
-  
+  my description
   ## Installation
-  
+  my installation instructions
   ## Usage
-  
+  my usage information
   ## Licence
   MIT
   ## Contributing
-  
+  my contribution guidelines
   ## Tests
-  
+  my test instructions
   ## Questions
-  GitHub username: [](https://github.com/)
+  GitHub username: [SamSchroder123](https://github.com/SamSchroder123)
 
-  Contact Email: 
+  Contact Email: testemail@gmail.com
 
   Please email me for further questions.
   

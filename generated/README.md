@@ -14,20 +14,20 @@
 
 [Questions](#questions)
 ## Description
-my description
+
 ## Installation
-install it all
+
 ## Usage
-use it all
+
 ## Licence
-Mozilla
+MIT
 ## Contributing
-contribute
+
 ## Tests
-test
+
 ## Questions
 GitHub username: [SamSchroder123](https://github.com/SamSchroder123)
 
-Contact Email: testemail@gmail.com
+Contact Email: 
 
 Please email me for further questions.

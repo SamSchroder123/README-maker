@@ -75,7 +75,7 @@ function writeToFile(fileName, data) {
   console.log("writing to file...");
   let text = generateMarkdown(data);
   console.log(text);
-  fs.writeFile(fileName, text, (err) => {
+  fs.writeFile(`./generated/${fileName}`, text, (err) => {
     if (err) {
       console.log("An error occurred writing to file.");
       console.log(err);
